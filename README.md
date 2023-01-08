@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://github.com/LeandroSFraga">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroSFraga&hide=contribs,prs&count_private=true&show_icons=true&&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeandroSFraga&layout=compact&langs_count=8&theme=dracula"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LeandroSFraga&count_private=true&show_icons=true&&theme=dracula"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LeandroSFraga&layout=compact&langs_count=8&theme=dracula"/>
   </a>
 </p>
 
