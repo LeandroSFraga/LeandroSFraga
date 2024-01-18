@@ -1,8 +1,9 @@
 <h1 align="center">😄 Hi, I'm Leo!</h1> 
 
 <div align="center">
-  <p>📚 Studying React and Typescript</p>
-  <p>🎓 Information Systems Student</p>
+  <p>📚 Studying Swift</p>
+  <p>🎓 Bachelor of Information Systems</p>
+  <p>💻 React and React Native</p>
   <p>🚀 Trying to be better every day!</p>
   <p>✨ he/him</li>
 </div>
