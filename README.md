@@ -5,7 +5,6 @@
   <p>🎓 Bachelor of Information Systems</p>
   <p>💻 React and React Native</p>
   <p>🚀 Trying to be better every day!</p>
-  <p>✨ he/him</li>
 </div>
 
 
